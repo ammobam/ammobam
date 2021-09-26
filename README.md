@@ -32,8 +32,10 @@
 
 - [**OCR Project**](https://github.com/ammobam/OCR_ElectricityMeter_imgprep)
   - 진행기간 : 21-08-30 ~ 21-10-06
-  - Image Preprocessing
-  - Object Detection
-  - OCR DeepLearning
-  - Android App (🐥 진행중)
+  - [수행일지(Click)📌] (https://ammobam.github.io/categories/#ocr-project)
+  - 수행 내용
+	  - Image Preprocessing
+	  - Object Detection
+	  - OCR DeepLearning
+	  - Android App (🐥 진행중)
 
