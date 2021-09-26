@@ -12,7 +12,7 @@
 - **Database** 📌
 	- Oracle(1), MySQL(1)
 - **Development Tool** 💻
-	- PyCharm, Eclipse, Spyder, Colab, Jupyter, Vscode
+	- PyCharm, Eclipse, Spyder, Colab, Jupyter, Vcode
 - **Data Preprocessing** 📌
 	- OpenCV(2), Pandas(2), Numpy(2)
 - **Data Analaysis** 📌
