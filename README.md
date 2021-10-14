@@ -10,13 +10,13 @@
 - **Framework+Library** 📌
 	- Django(1), Flask(1)
 - **Database** 📌
-	- Oracle(1), MySQL(1)
+	- MySQL(1), Oracle(1)
 - **Development Tool** 💻
-	- PyCharm, Eclipse, Spyder, Colab, Jupyter, Vcode
+	- PyCharm, Eclipse, Colab, Jupyter, DBeaver, Android Studio
 - **Data Preprocessing** 📌
 	- OpenCV(2), Pandas(2), Numpy(2)
 - **Data Analaysis** 📌
-	- Scikit-learn(2), Keras(2), Tensorflow(2), konlpy(1)
+	- Scikit-learn(2), Tensorflow(2), PyTorch(2), konlpy(1)
 - **Data Visualization** 📌
 	- Matplotlib(3), Seaborn(2)
 - **ETC** 💻
@@ -27,15 +27,15 @@
 ## 🚀Project
 
 - [**MachineLearning Project**](https://github.com/ammobam/Display_SensorData)
-  - 진행기간 : 21-07-15 ~ 21-08-25
+  - 진행기간 : 21-07-26 ~ 21-08-26
   - 데이터 정제, 분석, 모델링, 시각화
 
 - [**OCR Project**](https://github.com/ammobam/OCR_ElectricityMeter_imgprep)
-  - 진행기간 : 21-08-30 ~ 21-10-06
+  - 진행기간 : 21-08-31 ~ 21-10-06
   - [수행일지(Click)📌](https://ammobam.github.io/categories/#ocr-project)
   - 수행 내용
 	  - Image Preprocessing
 	  - Object Detection
 	  - OCR DeepLearning
-	  - Android App (🐥 진행중)
+	  - Android Application
 
