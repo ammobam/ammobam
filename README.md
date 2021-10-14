@@ -4,21 +4,21 @@
 ## 🚀Skill Set
 
 - **Language** 📌
-	- Python (2), Java (1), R (1)
+	- Python, Java, R
 - **OS** 💻
 	- Linux
 - **Framework+Library** 📌
-	- Django(1), Flask(1)
+	- Django, Flask
 - **Database** 📌
-	- MySQL(1), Oracle(1)
+	- MySQL, Oracle
 - **Development Tool** 💻
 	- PyCharm, Eclipse, Colab, Jupyter, DBeaver, Android Studio
 - **Data Preprocessing** 📌
-	- OpenCV(2), Pandas(2), Numpy(2)
+	- OpenCV, Pandas, Numpy
 - **Data Analaysis** 📌
-	- Scikit-learn(2), Tensorflow(2), PyTorch(2), konlpy(1)
+	- Scikit-learn, Tensorflow, PyTorch, konlpy
 - **Data Visualization** 📌
-	- Matplotlib(3), Seaborn(2)
+	- Matplotlib, Seaborn
 - **ETC** 💻
 	- Git, Slack
 
