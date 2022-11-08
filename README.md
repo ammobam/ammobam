@@ -4,9 +4,9 @@
 ## 🚀Skill Set
 
 - **Language** 📌
-	- Python, Java, R
+	- Python, R
 - **OS** 💻
-	- Linux
+	- Windows, Linux
 - **Framework+Library** 📌
 	- Django, Flask
 - **Database** 📌
